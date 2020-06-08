@@ -1,0 +1,16 @@
+
+1:- git init
+
+2:-	git add .
+
+3:-	git commit -m "initial commit"
+
+4:-	git remote add origin https://github.com/sahujaunpuri/Crack-Keil-uVision4.git
+
+5:-	git remote set-url origin https://github.com/sahujaunpuri/Crack-Keil-uVision4.git
+
+6:-	git remote -v
+
+7a:-	git push -f origin master ( send karne ke liye)
+
+7b:-	git fetch -f origin master ( set project downlod krne ke liye)
